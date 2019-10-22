@@ -46,13 +46,13 @@
         <image_width/>
         <size_bytes>43309</size_bytes>
         <size_compressed>32768</size_compressed>
-        <state>pending</state>
+        <state>available_conditionally</state>
         <sys_created_by>pryder</sys_created_by>
         <sys_created_on>2019-10-21 13:31:34</sys_created_on>
         <sys_id>ca19abb2a82c00107f448a9d9367968a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>pryder</sys_updated_by>
-        <sys_updated_on>2019-10-21 13:31:34</sys_updated_on>
+        <sys_updated_on>2019-10-21 14:35:00</sys_updated_on>
         <table_name>sys_app</table_name>
         <table_sys_id>4a19abb6a86c00107f448a9d9367968e</table_sys_id>
     </sys_attachment>

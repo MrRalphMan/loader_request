@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>short_description</element>
+        <name>x_snc_loaner_req_loaner_request</name>
+        <style>background-color: red;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>pryder</sys_created_by>
+        <sys_created_on>2019-10-22 09:04:18</sys_created_on>
+        <sys_id>0d65bbcba82440107f448a9d93679650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_loaner_req_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_req">4a19abb6a86c00107f448a9d9367968e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4a19abb6a86c00107f448a9d9367968e</sys_scope>
+        <sys_update_name>sys_ui_style_0d65bbcba82440107f448a9d93679650</sys_update_name>
+        <sys_updated_by>pryder</sys_updated_by>
+        <sys_updated_on>2019-10-22 09:04:18</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=0d65bbcba82440107f448a9d93679650"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">4a19abb6a86c00107f448a9d9367968e</application>
+        <file_path/>
+        <instance_id>cc76d0ea1b6c8010c23fed7b2f4bcb7d</instance_id>
+        <instance_name>adf-oct-706-dev-001</instance_name>
+        <name>sys_ui_style_0d65bbcba82440107f448a9d93679650</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style"><sys_ui_style action="INSERT_OR_UPDATE"><alt/><element>short_description</element><name>x_snc_loaner_req_loaner_request</name><style>background-color: red;</style><sys_class_name>sys_ui_style</sys_class_name><sys_created_by>pryder</sys_created_by><sys_created_on>2019-10-22 09:04:18</sys_created_on><sys_id>0d65bbcba82440107f448a9d93679650</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_loaner_req_loaner_request</sys_name><sys_package display_value="Loaner Request" source="x_snc_loaner_req">4a19abb6a86c00107f448a9d9367968e</sys_package><sys_policy/><sys_scope display_value="Loaner Request">4a19abb6a86c00107f448a9d9367968e</sys_scope><sys_update_name>sys_ui_style_0d65bbcba82440107f448a9d93679650</sys_update_name><sys_updated_by>pryder</sys_updated_by><sys_updated_on>2019-10-22 09:04:18</sys_updated_on><value/></sys_ui_style><sys_translated_text action="delete_multiple" query="documentkey=0d65bbcba82440107f448a9d93679650"/></record_update>]]></payload>
+        <payload_hash>-221516576</payload_hash>
+        <record_name>x_snc_loaner_req_loaner_request</record_name>
+        <reverted_from/>
+        <source>4e19abb6a86c00107f448a9d93679690</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>pryder</sys_created_by>
+        <sys_created_on>2019-10-22 09:04:18</sys_created_on>
+        <sys_id>c585bf8ba82440107f448a9d93679600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16df2b5b8b10000001</sys_recorded_at>
+        <sys_updated_by>pryder</sys_updated_by>
+        <sys_updated_on>2019-10-22 09:04:18</sys_updated_on>
+        <type>Style</type>
+        <update_guid>0185bf8b82244010b1f3900af45cdc00</update_guid>
+        <update_guid_history>0185bf8b82244010b1f3900af45cdc00:-221516576</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>pryder</sys_created_by>
+        <sys_created_on>2019-10-22 09:06:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>834869fff9104cacbbad4c469dcbe6e9</sys_id>
+        <sys_metadata>0d65bbcba82440107f448a9d93679650</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_loaner_req_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_req">4a19abb6a86c00107f448a9d9367968e</sys_package>
+        <sys_parent display_value="Loaner Request">be1ae3f6a86c00107f448a9d93679658</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4a19abb6a86c00107f448a9d9367968e</sys_scope>
+        <sys_scope_delete display_value="">03367995f062409e923c0267bba78e41</sys_scope_delete>
+        <sys_update_name>sys_ui_style_0d65bbcba82440107f448a9d93679650</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_0d65bbcba82440107f448a9d93679650">c585bf8ba82440107f448a9d93679600</sys_update_version>
+        <sys_updated_by>pryder</sys_updated_by>
+        <sys_updated_on>2019-10-22 09:06:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

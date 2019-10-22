@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_loaner_req.test_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>test_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>pryder</sys_created_by>
+        <sys_created_on>2019-10-21 15:48:26</sys_created_on>
+        <sys_id>83684447a8ac00107f448a9d93679620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_loaner_req.test_user</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_req">4a19abb6a86c00107f448a9d9367968e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4a19abb6a86c00107f448a9d9367968e</sys_scope>
+        <sys_update_name>sys_user_role_83684447a8ac00107f448a9d93679620</sys_update_name>
+        <sys_updated_by>pryder</sys_updated_by>
+        <sys_updated_on>2019-10-21 15:48:26</sys_updated_on>
+    </sys_user_role>
+</record_update>
