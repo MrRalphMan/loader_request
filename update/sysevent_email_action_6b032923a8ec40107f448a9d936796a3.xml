@@ -41,6 +41,8 @@
 <p>The ${item_type} (${cmdb_ci}) is available for pickup at ${depot}.</p>
 <p>Your reservation is scheduled to begin ${start_date}.&nbsp; Please return the item to the same location you picked it up by ${end_date}.</p>
 <p>&nbsp;</p>
+<p>Password: ${mail_script:x_snc_loaner_req_loaner_request_script_1}</p>
+<p>&nbsp;</p>
 <p>You will receive a return reminder 24 hours prior to its due date.</p>]]></message_html>
         <message_list/>
         <message_text/>
@@ -63,7 +65,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6b032923a8ec40107f448a9d936796a3</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Loaner Item Pick up</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_req">4a19abb6a86c00107f448a9d9367968e</sys_package>
@@ -71,7 +73,7 @@
         <sys_scope display_value="Loaner Request">4a19abb6a86c00107f448a9d9367968e</sys_scope>
         <sys_update_name>sysevent_email_action_6b032923a8ec40107f448a9d936796a3</sys_update_name>
         <sys_updated_by>pryder</sys_updated_by>
-        <sys_updated_on>2019-10-23 11:52:28</sys_updated_on>
+        <sys_updated_on>2019-10-23 14:41:02</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>
