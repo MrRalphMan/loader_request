@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_snc_loaner_req_loaner_task" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_snc_loaner_req_loaner_task</name>
+            <sequence>0</sequence>
+            <sys_created_by>pryder</sys_created_by>
+            <sys_created_on>2019-10-23 09:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06c6c1a3a8ac40107f448a9d93679639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pryder</sys_updated_by>
+            <sys_updated_on>2019-10-23 09:37:50</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_snc_loaner_req_loaner_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>pryder</sys_created_by>
+            <sys_created_on>2019-10-23 09:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86c6c1a3a8ac40107f448a9d9367963b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pryder</sys_updated_by>
+            <sys_updated_on>2019-10-23 09:37:50</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_snc_loaner_req_loaner_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>pryder</sys_created_by>
+            <sys_created_on>2019-10-23 09:37:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6c6c1a3a8ac40107f448a9d93679649</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>pryder</sys_updated_by>
+            <sys_updated_on>2019-10-23 09:37:50</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_snc_loaner_req_loaner_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>pryder</sys_created_by>
+            <sys_created_on>2019-10-23 09:37:50</sys_created_on>
+            <sys_id>4ec6c1a3a8ac40107f448a9d93679639</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="Loaner Request" source="x_snc_loaner_req">4a19abb6a86c00107f448a9d9367968e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">4a19abb6a86c00107f448a9d9367968e</sys_scope>
+            <sys_update_name>sys_choice_x_snc_loaner_req_loaner_task_state</sys_update_name>
+            <sys_updated_by>pryder</sys_updated_by>
+            <sys_updated_on>2019-10-23 09:37:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

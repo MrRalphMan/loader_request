@@ -4,55 +4,55 @@
             <element>comments</element>
             <position>0</position>
             <sys_created_by>pryder</sys_created_by>
-            <sys_created_on>2019-10-22 08:21:28</sys_created_on>
-            <sys_id>adbb2f87a82440107f448a9d93679671</sys_id>
+            <sys_created_on>2019-10-23 12:05:58</sys_created_on>
+            <sys_id>77a8e5e3a8ec40107f448a9d93679605</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_snc_loaner_req_loaner_request" sys_domain="global" view="Default view">89bbeb87a82440107f448a9d936796ea</sys_ui_section>
             <sys_updated_by>pryder</sys_updated_by>
-            <sys_updated_on>2019-10-22 08:21:28</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>1</position>
-            <sys_created_by>pryder</sys_created_by>
-            <sys_created_on>2019-10-22 08:21:28</sys_created_on>
-            <sys_id>21bb2f87a82440107f448a9d93679672</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Log" display_value="Log" name="x_snc_loaner_req_loaner_request" sys_domain="global" view="Default view">89bbeb87a82440107f448a9d936796ea</sys_ui_section>
-            <sys_updated_by>pryder</sys_updated_by>
-            <sys_updated_on>2019-10-22 08:21:28</sys_updated_on>
+            <sys_updated_on>2019-10-23 12:05:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>pryder</sys_created_by>
-            <sys_created_on>2019-10-22 08:21:28</sys_created_on>
-            <sys_id>a1bb2f87a82440107f448a9d93679672</sys_id>
+            <sys_created_on>2019-10-23 12:05:58</sys_created_on>
+            <sys_id>0cb8e5e3a8ec40107f448a9d93679605</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_snc_loaner_req_loaner_request" sys_domain="global" view="Default view">89bbeb87a82440107f448a9d936796ea</sys_ui_section>
             <sys_updated_by>pryder</sys_updated_by>
-            <sys_updated_on>2019-10-22 08:21:28</sys_updated_on>
+            <sys_updated_on>2019-10-23 12:05:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>pryder</sys_created_by>
-            <sys_created_on>2019-10-22 08:21:28</sys_created_on>
-            <sys_id>25bb2f87a82440107f448a9d93679672</sys_id>
+            <sys_created_on>2019-10-23 12:05:58</sys_created_on>
+            <sys_id>8cb8e5e3a8ec40107f448a9d93679605</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_snc_loaner_req_loaner_request" sys_domain="global" view="Default view">89bbeb87a82440107f448a9d936796ea</sys_ui_section>
             <sys_updated_by>pryder</sys_updated_by>
-            <sys_updated_on>2019-10-22 08:21:28</sys_updated_on>
+            <sys_updated_on>2019-10-23 12:05:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>3</position>
+            <sys_created_by>pryder</sys_created_by>
+            <sys_created_on>2019-10-23 12:05:58</sys_created_on>
+            <sys_id>00b8e5e3a8ec40107f448a9d93679606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_snc_loaner_req_loaner_request" sys_domain="global" view="Default view">89bbeb87a82440107f448a9d936796ea</sys_ui_section>
+            <sys_updated_by>pryder</sys_updated_by>
+            <sys_updated_on>2019-10-23 12:05:58</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -42,6 +42,20 @@
             <sys_updated_by>pryder</sys_updated_by>
             <sys_updated_on>2019-10-22 08:21:27</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>pryder</sys_created_by>
+            <sys_created_on>2019-10-23 12:05:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f7a8a5e3a8ec40107f448a9d936796c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_loaner_req_loaner_request" name="x_snc_loaner_req_loaner_request" sys_domain="global" view="Default view">81bbeb87a82440107f448a9d936796ed</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_snc_loaner_req_loaner_request" sys_domain="global" view="Default view">f7a8a5e3a8ec40107f448a9d936796bc</sys_ui_section>
+            <sys_updated_by>pryder</sys_updated_by>
+            <sys_updated_on>2019-10-23 12:05:58</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_snc_loaner_req_loaner_request</name>
             <roles/>
