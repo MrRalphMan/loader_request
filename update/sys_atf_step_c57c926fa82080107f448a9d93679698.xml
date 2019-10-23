@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set the values on the form as follows:
+Requested for = Abraham Lincoln
+and End date = 14/10/2019 01:00:00
+and Start date = 23/10/2019 01:00:00</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <snapshot/>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>pryder</sys_created_by>
+        <sys_created_on>2019-10-23 15:52:44</sys_created_on>
+        <sys_id>c57c926fa82080107f448a9d93679698</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_req">4a19abb6a86c00107f448a9d9367968e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">4a19abb6a86c00107f448a9d9367968e</sys_scope>
+        <sys_update_name>sys_atf_step_c57c926fa82080107f448a9d93679698</sys_update_name>
+        <sys_updated_by>pryder</sys_updated_by>
+        <sys_updated_on>2019-10-23 15:52:44</sys_updated_on>
+        <table>x_snc_loaner_req_loaner_request</table>
+        <test display_value="My First Loaner Request ATF Test">ca0c126fa82080107f448a9d93679652</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=c57c926fa82080107f448a9d93679698"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c57c926fa82080107f448a9d93679698</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>pryder</sys_created_by>
+        <sys_created_on>2019-10-23 15:52:44</sys_created_on>
+        <sys_id>b19c566fa82080107f448a9d93679623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pryder</sys_updated_by>
+        <sys_updated_on>2019-10-23 15:52:44</sys_updated_on>
+        <value>requested_for=a8f98bb0eb32010045e1a5115206fe3a^end_date=14/10/2019 00:00:00^start_date=23/10/2019 00:00:00^EQ</value>
+        <variable display_value="">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>c57c926fa82080107f448a9d93679698</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>pryder</sys_created_by>
+        <sys_created_on>2019-10-23 15:52:44</sys_created_on>
+        <sys_id>bd9c566fa82080107f448a9d93679622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>pryder</sys_updated_by>
+        <sys_updated_on>2019-10-23 15:52:44</sys_updated_on>
+        <value>x_snc_loaner_req_loaner_request</value>
+        <variable display_value="">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+</record_update>
